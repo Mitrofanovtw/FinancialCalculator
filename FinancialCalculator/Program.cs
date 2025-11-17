@@ -111,7 +111,7 @@ namespace FinancialCalculator
             Console.WriteLine("Фиксированные курсы:");
             Console.WriteLine("  USD → RUB: 81.13");
             Console.WriteLine("  EUR → RUB: 94.42");
-            Console.WriteLine("  EUR → USD: 1.16\n");
+            Console.WriteLine("  EUR → USD: 1.15\n");
 
             string from = ReadCurrency("Исходная валюта (RUB/USD/EUR): ");
             string to = ReadCurrency("Целевая валюта (RUB/USD/EUR): ");
